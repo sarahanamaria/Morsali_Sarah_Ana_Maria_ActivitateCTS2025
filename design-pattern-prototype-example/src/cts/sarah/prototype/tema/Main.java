@@ -1,4 +1,4 @@
-package cts.adrian.prototype.tema;
+package cts.sarah.prototype.tema;
 // Un student primeste teme din diverse materii. Profesorul creeaza o tema de baza si apoi face copii pentru alti studenti, schimband doar numele si numarul de exercitii. Trebuie sa poti clona tema si sa o personalizezi fara sa o afectezi pe cea originala.
 public class Main {
     public static void main (String[] args){

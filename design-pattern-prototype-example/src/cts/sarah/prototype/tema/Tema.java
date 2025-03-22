@@ -1,4 +1,4 @@
-package cts.adrian.prototype.tema;
+package cts.sarah.prototype.tema;
 
 public class Tema implements Prototype {
     private String denumire;
